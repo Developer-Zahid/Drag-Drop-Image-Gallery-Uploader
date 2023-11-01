@@ -16,7 +16,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-1.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-1.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -24,7 +24,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-2.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-2.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -32,7 +32,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-3.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-3.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -40,7 +40,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-4.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-4.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -48,7 +48,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-5.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-5.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -56,7 +56,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-6.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-6.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -64,7 +64,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-7.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-7.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -72,7 +72,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-8.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-8.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -80,7 +80,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-9.webp" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-9.webp" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -88,7 +88,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-10.jpeg" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-10.jpeg" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
@@ -96,7 +96,7 @@ function App() {
                 <label className="gallery__grid__card">
                   <input type="checkbox" name="product[]" className="gallery__grid__card__input" />
                   <figure className="gallery__grid__card__figure">
-                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-11.jpeg" alt="product preview" />
+                    <img className="gallery__grid__card__figure__bg" src="/assets/images/image-11.jpeg" alt="product preview" loading="lazy" />
                   </figure>
                 </label>
               </div>
